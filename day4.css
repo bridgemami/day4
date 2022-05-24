@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(270deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    color: whitesmoke;
+}
+img {
+    height: 200px;
+    width: 200px;
+    box-shadow: 5px 5px 5px #0789DB;
+    border-radius: 100px;
+    margin-left: 10px;
+    background: #A35F00;
+    display: block;
+    margin: auto;
+}
+
+img:hover {
+    height: 225px;
+    width: 225px;
+    border-radius: 112.5px;
+    box-shadow: 6.125px 6.125px 6.125px #4DBBFF;
+}
+
+#section1 {
+    background: #A35F00;
+    box-sizing: border-box;
+    width: 250px;
+    border-radius: 10px;
+    padding-bottom: 2px;
+}
+
+
+#d1 {
+    margin-top: 20px;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+   
+
+#title {
+    text-align: center;
+}
+
+#par{
+    box-sizing: border-box;
+}
